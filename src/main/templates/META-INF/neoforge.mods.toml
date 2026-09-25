@@ -42,11 +42,11 @@ displayName="${mod_name}" #mandatory
 #credits="" #optional
 
 # The authors of the mod, displayed in the mod UI (optional)
-#authors=""
+authors="Fuyu"
 
 # The description text for the mod (multi line!) (#mandatory)
 description='''
-Example mod description.
+Duas armas de Stars Will Fall: uma foice estelar que rouba vida, vira bumerangue e dá impulso, e um guarda-sol que faz flores brotarem, plana pelo ar, solta uma névoa venenosa de pétalas e se fecha em espada.
 '''
 
 # The [[mixins]] block allows you to declare your mixin config to FML so that it gets loaded.

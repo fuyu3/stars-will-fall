@@ -1,0 +1,20 @@
+{
+  "itemGroup.starswillfall": "Stars Will Fall",
+  "item.starswillfall.scythe": "Foice Estelar",
+  "item.starswillfall.guarda_sol": "Guarda-sol",
+  "tooltip.starswillfall.guarda_sol.form.open": "Forma: Guarda-sol",
+  "tooltip.starswillfall.guarda_sol.form.closed": "Forma: Lâmina",
+  "tooltip.starswillfall.guarda_sol.open.block": "Usar em um bloco: faz flores brotarem",
+  "tooltip.starswillfall.guarda_sol.open.air": "Segurar Usar: impulso e planar",
+  "tooltip.starswillfall.guarda_sol.closed.use": "Usar: solta uma névoa de flores venenosas",
+  "tooltip.starswillfall.guarda_sol.toggle": "Agachar + Usar: fechar / abrir",
+  "message.starswillfall.guarda_sol.no_bloom": "Flores não crescem aqui",
+  "message.starswillfall.guarda_sol.mist_cooldown": "A névoa está recarregando (%s s)",
+  "tooltip.starswillfall.scythe.mode.boomerang": "Modo: Bumerangue",
+  "tooltip.starswillfall.scythe.mode.dash": "Modo: Impulso Estelar",
+  "tooltip.starswillfall.scythe.use.boomerang": "Usar: arremessa (volta para você)",
+  "tooltip.starswillfall.scythe.use.dash": "Usar: impulso para onde você olha (sem recarga)",
+  "tooltip.starswillfall.scythe.toggle": "Agachar + Usar: trocar de modo",
+  "message.starswillfall.scythe.mode.boomerang": "Modo: Bumerangue",
+  "message.starswillfall.scythe.mode.dash": "Modo: Impulso Estelar"
+}

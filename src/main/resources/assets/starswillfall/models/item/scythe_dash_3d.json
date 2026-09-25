@@ -1,0 +1,10 @@
+{
+  "loader": "neoforge:obj",
+  "model": "starswillfall:models/item/scythe.obj",
+  "mtl_override": "starswillfall:models/item/scythe_dash.mtl",
+  "flip_v": false,
+  "display": {
+    "ground": { "scale": [0.5, 0.5, 0.5] },
+    "fixed": { "rotation": [0, 90, 0], "translation": [0, -2.5, 0], "scale": [0.5, 0.5, 0.5] }
+  }
+}

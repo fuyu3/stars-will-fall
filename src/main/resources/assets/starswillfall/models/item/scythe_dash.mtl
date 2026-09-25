@@ -1,0 +1,3 @@
+newmtl scythe_material
+Kd 1.0 1.0 1.0
+map_Kd starswillfall:item/scythe_dash_3d

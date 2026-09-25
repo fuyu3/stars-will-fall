@@ -1,0 +1,20 @@
+{
+  "itemGroup.starswillfall": "Stars Will Fall",
+  "item.starswillfall.scythe": "Star Scythe",
+  "item.starswillfall.guarda_sol": "Guarda-sol",
+  "tooltip.starswillfall.guarda_sol.form.open": "Form: Guarda-sol",
+  "tooltip.starswillfall.guarda_sol.form.closed": "Form: Blade",
+  "tooltip.starswillfall.guarda_sol.open.block": "Use on a block: make flowers bloom",
+  "tooltip.starswillfall.guarda_sol.open.air": "Hold Use: launch and glide",
+  "tooltip.starswillfall.guarda_sol.closed.use": "Use: release a mist of poisonous flowers",
+  "tooltip.starswillfall.guarda_sol.toggle": "Sneak + Use: fold / unfold",
+  "message.starswillfall.guarda_sol.no_bloom": "Flowers can't grow here",
+  "message.starswillfall.guarda_sol.mist_cooldown": "The mist is recharging (%s s)",
+  "tooltip.starswillfall.scythe.mode.boomerang": "Mode: Boomerang",
+  "tooltip.starswillfall.scythe.mode.dash": "Mode: Star Dash",
+  "tooltip.starswillfall.scythe.use.boomerang": "Use: throw it (it returns to you)",
+  "tooltip.starswillfall.scythe.use.dash": "Use: dash where you look (no cooldown)",
+  "tooltip.starswillfall.scythe.toggle": "Sneak + Use: switch mode",
+  "message.starswillfall.scythe.mode.boomerang": "Mode: Boomerang",
+  "message.starswillfall.scythe.mode.dash": "Mode: Star Dash"
+}

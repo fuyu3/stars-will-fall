@@ -1,0 +1,15 @@
+{
+  "loader": "neoforge:separate_transforms",
+  "gui_light": "front",
+  "textures": {
+    "particle": "starswillfall:item/guarda_sol_closed"
+  },
+  "base": {
+    "parent": "starswillfall:item/guarda_sol_closed_3d"
+  },
+  "perspectives": {
+    "gui": {
+      "parent": "starswillfall:item/guarda_sol_closed_icon"
+    }
+  }
+}
